@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# PLP-FINAL-PROJECT-AIMWELL
+# -PROJECT-AIMWELL
 =======
 >>>>>>> b56f1636734404622a51519d2ee6fe8ec4b06f17
 # # 📘 AIMWELL – Intelligent Learning & Wellness Platform  
